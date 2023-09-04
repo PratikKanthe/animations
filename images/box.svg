@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M10,5h10v10h-4h-2h-4V5z" />
+</svg>
+
+<!-- box 1 -->
+<!-- M10,5h10v10h-4h-2h-4V5z  -->
+
+<!-- box 2 -->
+<!-- M5,17h4h4v10H5V17z  -->
+
+<!-- box 3 -->
+<!-- M25,27H15V17h10V27z  -->
+
+<!-- border red -->
+<!-- stroke="black" stroke-width="1" -->
